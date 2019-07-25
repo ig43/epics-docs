@@ -126,7 +126,7 @@ wanted to see more digits, you could run
     camonitor -g8 temperature:water
 
 For further details on the Channel Access protocol, including documentation
-on the ``caput``, ``caget``, ``camonitor`...
+on the ``caput``, ``caget``, ``camonitor``...
 command line tools, please refer to the `Channel Access Reference Manual <https://epics.anl.gov/base/R3-14/8-docs/CAref.html>`_.
 
 In real life, however, it is unlikely that the 8 digits returned by your
@@ -298,7 +298,3 @@ substitutions. In that case, replace the ``${NAME}`` variables with
 full paths, like ``/Users/maradona/EPICS...``.
 
 Finally run ``make`` (we are in the directory ``...EPICS/support/stream/StreamDevice``)
-
-.. history
-.. authors
-.. license

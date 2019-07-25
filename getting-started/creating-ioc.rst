@@ -210,7 +210,3 @@ interfaces:
 
     export EPICS_CA_ADDR_LIST=ccc.ccc.ccc.ccc << Broadcast address of the network
     export EPICS_CA_AUTO_ADDR_LIST=NO
-
-.. history
-.. authors
-.. license
