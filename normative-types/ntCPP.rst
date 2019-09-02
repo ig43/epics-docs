@@ -5,16 +5,11 @@ EPICS normativeTypesCPP
 EPICS normativeTypesCPP
 =======================
 
-Release 5.2.1 - December 2018
+Release 5.3.0 - September 2019
 -----------------------------
 
-Editors:
-    Marty Kraimer
-     Matej Sekoranja, CosyLab
-     David Hickin, Diamond Light Source
-
 This software is published under the terms of the `EPICS Open
-license. <http://epics-pvdata.sourceforge.net/LICENSE.html>`__
+license. :ref:'licence_statement'
 
 --------------
 
