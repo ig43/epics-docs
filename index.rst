@@ -48,6 +48,12 @@ Welcome to the EPICS documentation!
    infrastructure-and-other/how-to-find-which-ioc-provides-a-pv
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Normative Types (NT)
+
+   normative-types/ntCPP
+
 Indices and tables
 ==================
 
