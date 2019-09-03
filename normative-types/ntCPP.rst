@@ -27,7 +27,7 @@ EPICS Version 4 provides efficient storage, access, and communication, of
 Status of this Document
 -----------------------
 
-This is the 14-December-2017 version for the 5.2.0 release of the C++
+This is the 03 September-2019 version for the 5.3.0 release of the C++
 implementation of normativeTypes.
 
 RELEASE\_NOTES.md provides changes since the last release. TODO.md
