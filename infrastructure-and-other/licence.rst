@@ -1,4 +1,4 @@
-.. *licence*\ statement:
+.. _licencestatement:
 
 Copyright and License Terms
 ---------------------------
