@@ -1,5 +1,5 @@
 .. EPICS Documentation documentation master file, created by
-   sphinx-quickstart on Wed Jul 24 13:27:58 2019.
+   sphinx-quickstart on Wed August 03 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -10,6 +10,7 @@ Welcome to the EPICS documentation!
    :maxdepth: 1
    :caption: Getting started
 
+   infrastructure-and-other/licence
    getting-started/installation
    getting-started/creating-ioc
 
@@ -18,7 +19,7 @@ Welcome to the EPICS documentation!
    :maxdepth: 1
    :caption: Building EPICS
 
-   building-epics/how-to-port-epics-to-a-new-os-crchitecture
+   building-epics/how-to-port-epics-to-a-new-os-architecture
 
 
 .. toctree::

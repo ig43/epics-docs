@@ -6,7 +6,7 @@ EPICS normativeTypesCPP
 =======================
 
 Release 5.3.0 - September 2019
------------------------------
+------------------------------
 
 This software is published under the terms of the `EPICS Open
 license. :ref:`licence_statement`
@@ -16,14 +16,15 @@ license. :ref:`licence_statement`
 Abstract
 --------
 
-| EPICS Version 4 provides efficient storage, access, and communication,
-of memory resident structured data. The EPICS V4 Normative Types are a
-collection of structured data types that can be used by the application
-level of EPICS V4 network endpoints, to interoperably exchange
-scientific data. normativeTypesCPP is the C++ implementation. It is one
-part of the set of related products in the EPICS V4 control system
-programming environment:
-| 
+EPICS Version 4 provides efficient storage, access, and communication, of
+|   memory resident structured data. The EPICS V4 Normative Types are a
+|   collection of structured data types that can be used by the application
+|   level of EPICS V4 network endpoints, to interoperably exchange
+|   scientific data. normativeTypesCPP is the C++ implementation. It is one
+|   part of the set of related products in the EPICS V4 control system
+|   programming environment:
+
+
 `relatedDocumentsV4.html <http://epics-pvdata.sourceforge.net/relatedDocumentsV4.html>`__
 
 Status of this Document
@@ -2947,6 +2948,7 @@ getValue()
 getN()
     Returns the ``N`` field.
 getDispersion()
+    <to do>
 getFirst()
     Returns the ``first`` field.
 getFirstTimeStamp()
