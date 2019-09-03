@@ -2,7 +2,7 @@
 #
 # This file only contains a selection of the most common options. For a full
 # list see the documentation:
-# http://www.sphinx-doc.org/en/master/config
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'EPICS Documentation'
+project = 'epics-docs'
 copyright = '2019, EPICS'
 author = 'EPICS'
 
@@ -44,21 +44,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
-
+html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-html_css_files = [
-    'css/custom.css',
-]
-
-master_doc = 'index'
-
-html_theme_options = {
-    'logo_only': True,
-}
-html_logo = "images/EPICS_white_logo_v02.png"
