@@ -5,7 +5,7 @@ EPICS normativeTypesCPP
 Release 5.3.0 - September 2019
 ------------------------------
 
-This software is published under the terms of the `EPICS Open
+This software is published under the terms of the EPICS Open
 license. :ref:`licencestatement`
 
 --------------
